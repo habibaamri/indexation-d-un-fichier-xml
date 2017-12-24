@@ -1,0 +1,9 @@
+Ce fichier README explique comment utiliser  notre application du projet d'indexation d'un fichier xml:
+Instructions d'exécution du programme:
+===========================================================
+Pour  exécuter le programme  vous devez exécuter Acceuil.java (ProjetXML\src\IHM)
+
+ Remarque:vous devez importer la bibliotheque du lucene 3.8  dans votre programme.
+============================================================
+Développé par
+ Amri Habiba
